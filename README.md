@@ -4,7 +4,7 @@ Ce référentiel contient deux scripts Python qui effectuent le web scraping de 
 
 Script 1: Web Scraping d'un site d'actualités
 
-Ce script extrait les titres, les descriptions et les dates de publication des actualités d'un site web (exemple: Le Matin - https://lematin.ma/).
+Ce script extrait les titres, les descriptions et les dates de publication des actualités d'un site web 
 
 Les données sont ensuite stockées dans un DataFrame Pandas et sauvegardées dans un fichier CSV (web_scraping.csv).
 
